@@ -32,6 +32,7 @@ The dataset is structured and cleaned, consisting of daily stock data for Adani 
 
 Data is imported from a CSV file and processed within Power BI using calculated columns and DAX measures.
 
+---
 
 ## 📊 Visual Features
 
@@ -43,6 +44,7 @@ Data is imported from a CSV file and processed within Power BI using calculated 
 | KPI Cards     | Display 52W High, 52W Low, Avg Close, Volume |
 | Stacked Bars  | Compare High/Low across time blocks          |
 
+---
 
 ## 🔍 Dashboard Questions & Answers
 
@@ -61,6 +63,7 @@ ans - Comparing price with volume  reveals whether trends are supported by stron
 ### ❓ Which periods were volatile or stable?
 ans - Line and bar charts show month-wise fluctuations, helping investors understand risk and timing.
 
+---
 
 ## ⚒ Tools & Technologies
 
