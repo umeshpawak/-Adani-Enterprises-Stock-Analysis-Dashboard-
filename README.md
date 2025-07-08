@@ -8,7 +8,7 @@ A complete end-to-end stock market data analysis and visualization project built
 ## Here’s a preview of the Power BI dashboard created for Adani Enterprises stock analysis:
 ![Dashboard Screenshot](https://github.com/umeshpawak/-Adani-Enterprises-Stock-Analysis-Dashboard-/raw/main/dashboard%201%20.jpg)
 
-# download pbix. file 
+## download pbix. file 
 [ADANI ENTERPRISES LIMITED Project.pbix](https://github.com/umeshpawak/-Adani-Enterprises-Stock-Analysis-Dashboard-/blob/main/ADANI%20ENTERPRISES%20LIMITED%20Project.pbix))
 
 ___
