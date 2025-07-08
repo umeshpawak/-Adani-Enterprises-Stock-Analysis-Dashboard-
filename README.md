@@ -14,6 +14,9 @@ This Power BI report transforms raw stock data into actionable insights using vi
 - KPI cards for 52-week high/low, total volume, average prices
 
 The goal is to simulate how a trader or investor would explore the data and derive meaningful takeaways before making portfolio decisions.
+## 🖼️ Dashboard Preview
+
+![Dashboard Screenshot]()
 
 ---
 
