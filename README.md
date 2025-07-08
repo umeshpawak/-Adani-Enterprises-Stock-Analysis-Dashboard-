@@ -19,7 +19,7 @@ The goal is to simulate how a trader or investor would explore the data and deri
 
 This is a quick look at the stock analysis dashboard created in Power BI:
 
-![Dashboard Screenshot](screenshots/dashboard_preview.jpg)
+![Dashboard Screenshot]([screenshots/dashboard_preview.jpg](https://github.com/umeshpawak/-Adani-Enterprises-Stock-Analysis-Dashboard-/blob/main/dashboard%201%20.jpg)
 
 ---
 
