@@ -18,7 +18,7 @@ The goal is to simulate how a trader or investor would explore the data and deri
 
 ## 🗃 Dataset Overview
 
-The dataset is structured and pre-cleaned, consisting of daily stock data for Adani Enterprises.
+The dataset is structured and cleaned, consisting of daily stock data for Adani Enterprises.
 
 | Column     | Description                          |
 |------------|--------------------------------------|
@@ -33,28 +33,6 @@ The dataset is structured and pre-cleaned, consisting of daily stock data for Ad
 Data is imported from a CSV file and processed within Power BI using calculated columns and DAX measures.
 
 
-
-## 🧠 Key Insights & Analysis
-
-This dashboard helps answer key business and trading questions:
-
-### 📅 Time-Based Questions
-- What was the average closing price over the last quarter?
-- How do Open/Close prices behave monthly or seasonally?
-- Are there recurring trends in specific months?
-
-### 📈 Price Movement & Technicals
-- What are the 52-week high and low prices?
-- Which day/month saw maximum volume spikes?
-- Does volume correlate with major price shifts?
-
-### 🎯 Investment Utility
-- Identify ideal entry/exit points using average vs. high/low prices
-- Analyze volatility periods and stability windows
-- Backtest strategies across quarters or years
-
-
-
 ## 📊 Visual Features
 
 | Visual        | Purpose                                      |
@@ -66,6 +44,23 @@ This dashboard helps answer key business and trading questions:
 | Stacked Bars  | Compare High/Low across time blocks          |
 
 
+## 🔍 Dashboard Questions & Answers
+
+### ❓ What is the average performance of the stock over time?
+ ans- View average Open and Close prices by month or quarter to identify growth or decline trends over the year.
+
+### ❓ What are the 52-week High and Low values?
+ ans - Displayed as KPIs to help traders identify breakout points and risk levels.
+
+### ❓ When did the stock see the most trading activity?
+ans - Volume charts show spikes in trading, often linked to events or announcements.
+
+### ❓ Is there a link between price rise and volume?
+ans - Comparing price with volume  reveals whether trends are supported by strong investor participation.
+
+### ❓ Which periods were volatile or stable?
+ans - Line and bar charts show month-wise fluctuations, helping investors understand risk and timing.
+
 
 ## ⚒ Tools & Technologies
 
@@ -73,17 +68,4 @@ This dashboard helps answer key business and trading questions:
 - DAX (Data Analysis Expressions)
 - Custom formatting and visuals
 - Excel/CSV for source data
-
-
-
-## 🔍 Use Cases in Trading & Finance
-
-This dashboard can help:
-- Retail traders decide when to buy/sell
-- Analysts identify long-term trends
-- Portfolio managers assess stock health
-- Students showcase skills in market analysis, BI, and storytelling
-
-
-
 
