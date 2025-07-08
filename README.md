@@ -2,6 +2,7 @@
 
 A complete end-to-end stock market data analysis and visualization project built in Power BI, focused on Adani Enterprises Ltd. This dashboard helps investors, analysts, and decision-makers understand price behavior, volume trends, 52-week highs/lows, and trading activity patterns over time.
 
+## 🗂️  dataset used file https://github.com/umeshpawak/-Adani-Enterprises-Stock-Analysis-Dashboard-/blob/main/Quote-Equity-ADANIENT-EQ-07-07-2024-to-07-07-2025%20.edit%20by%20umesh.csv
 ---
 
 ## 📌 About the Project
@@ -17,7 +18,6 @@ The goal is to simulate how a trader or investor would explore the data and deri
 ---
 
 ## 🗃 Dataset Overview
-
 The dataset is structured and cleaned, consisting of daily stock data for Adani Enterprises.
 
 | Column     | Description                          |
