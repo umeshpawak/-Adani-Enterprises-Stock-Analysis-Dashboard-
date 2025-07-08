@@ -5,6 +5,9 @@ A complete end-to-end stock market data analysis and visualization project built
 # 🗂️  dataset used file
 📥 [Download Dataset (CSV)](https://github.com/umeshpawak/-Adani-Enterprises-Stock-Analysis-Dashboard-/blob/main/Quote-Equity-ADANIENT-EQ-07-07-2024-to-07-07-2025%20.edit%20by%20umesh.csv)
 
+## Here’s a preview of the Power BI dashboard created for Adani Enterprises stock analysis:
+![Dashboard Screenshot](https://github.com/umeshpawak/-Adani-Enterprises-Stock-Analysis-Dashboard-/raw/main/dashboard%201%20.jpg)
+
 ## 📌 About the Project
 
 This Power BI report transforms raw stock data into actionable insights using visuals such as:
@@ -14,10 +17,6 @@ This Power BI report transforms raw stock data into actionable insights using vi
 - KPI cards for 52-week high/low, total volume, average prices
 
 The goal is to simulate how a trader or investor would explore the data and derive meaningful takeaways before making portfolio decisions.
-
-##Here’s a preview of the Power BI dashboard created for Adani Enterprises stock analysis:
-
-![Dashboard Screenshot](https://github.com/umeshpawak/-Adani-Enterprises-Stock-Analysis-Dashboard-/raw/main/dashboard%201%20.jpg)
 
 
 
