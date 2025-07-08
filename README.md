@@ -8,6 +8,10 @@ A complete end-to-end stock market data analysis and visualization project built
 ## Here’s a preview of the Power BI dashboard created for Adani Enterprises stock analysis:
 ![Dashboard Screenshot](https://github.com/umeshpawak/-Adani-Enterprises-Stock-Analysis-Dashboard-/raw/main/dashboard%201%20.jpg)
 
+[Download Dataset (CSV)](ADANI ENTERPRISES LIMITED Project.pbix)
+
+___
+
 ## 📌 About the Project
 
 This Power BI report transforms raw stock data into actionable insights using visuals such as:
@@ -18,7 +22,7 @@ This Power BI report transforms raw stock data into actionable insights using vi
 
 The goal is to simulate how a trader or investor would explore the data and derive meaningful takeaways before making portfolio decisions.
 
-
+___
 
 ## 🗃 Dataset Overview
 The dataset is structured and cleaned, consisting of daily stock data for Adani Enterprises.
