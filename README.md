@@ -15,10 +15,10 @@ This Power BI report transforms raw stock data into actionable insights using vi
 
 The goal is to simulate how a trader or investor would explore the data and derive meaningful takeaways before making portfolio decisions.
 
-## 🖼️ Dashboard Preview
+#Here’s a preview of the Power BI dashboard created for Adani Enterprises stock analysis:
 
-This is a quick look at the stock analysis dashboard created in Power BI:
-![Dashboard Screenshot](https://github.com/umeshpawak/-Adani-Enterprises-Stock-Analysis-Dashboard-/raw/main/adani_dashboard.jpg)
+![Dashboard Screenshot](https://github.com/umeshpawak/-Adani-Enterprises-Stock-Analysis-Dashboard-/raw/main/dashboard%201%20.jpg)
+
 
 
 ## 🗃 Dataset Overview
