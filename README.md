@@ -18,7 +18,8 @@ The goal is to simulate how a trader or investor would explore the data and deri
 ## 🖼️ Dashboard Preview
 
 This is a quick look at the stock analysis dashboard created in Power BI:
-![Full Dashboard Preview (jpg)](https://github.com/umeshpawak/amazon-sales-Powerbi-dashboard/blob/main/amazon%20bi%20dashboard.jpeg](https://github.com/umeshpawak/-Adani-Enterprises-Stock-Analysis-Dashboard-/blob/main/dashboard%201%20.jpg))
+![Dashboard Screenshot](https://github.com/umeshpawak/-Adani-Enterprises-Stock-Analysis-Dashboard-/raw/main/adani_dashboard.jpg)
+
 
 ## 🗃 Dataset Overview
 The dataset is structured and cleaned, consisting of daily stock data for Adani Enterprises.
